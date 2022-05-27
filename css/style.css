@@ -20,6 +20,12 @@ header
     height: 150px;
     text-align:center; ;
 }
+.worlImage
+{
+    width: 160px;
+    height: 90px;
+    text-align: center;
+}
 
 
 nav
@@ -55,8 +61,8 @@ section
 
 section p
 {
-    background-color:#c1c1c1;
     margin: 4px;
+    text-align: center;
 }
 h1
 {
@@ -70,10 +76,7 @@ h1
     gap: 2%;
 }
 
-.imageContainer p
-{
-    background: none;
-}
+
 .characterName
 {
     text-align: center;
